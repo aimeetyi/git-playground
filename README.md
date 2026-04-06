@@ -1,1 +1,1 @@
-# My Git Playground
+# git-playground
